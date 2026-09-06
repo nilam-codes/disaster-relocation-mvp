@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# Large/raw datasets
+data/raw/
+
+# Generated/processed data
+data/processed/
+
+# SQLite database
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment/secrets
+.env
+.env.*
