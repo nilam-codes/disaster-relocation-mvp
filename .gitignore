@@ -3,15 +3,21 @@ __pycache__/
 *.py[cod]
 *.pyo
 
-# Virtual environment
+# Virtual environments
 venv/
 .venv/
 
-# Large/raw datasets
+# VS Code
+.vscode/
+
+# Large/raw GIS datasets
 data/raw/
 
 # Generated/processed data
 data/processed/
+
+# Generated HTML maps
+*.html
 
 # SQLite database
 *.db
