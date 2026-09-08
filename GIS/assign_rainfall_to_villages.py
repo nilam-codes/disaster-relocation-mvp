@@ -34,4 +34,10 @@ print(
     .to_string(index=False)
 )
 
+output_file = "data/processed/villages/villages_rainfall_assignment.geojson"
+
+nearest.to_file(output_file, driver="GeoJSON")
+
+print("Output:", output_file)
+
 print("\n===== COMPLETE =====")
