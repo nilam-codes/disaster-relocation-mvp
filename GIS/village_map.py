@@ -1,11 +1,18 @@
 import geopandas as gpd
 import folium
 
+village_file = "data/processed/villages/villages_gis.geojson"
 # --------------------------------------------------
 # FILES
 # --------------------------------------------------
 
-village_file = "data/processed/villages/villages_gis.geojson"
+VILLAGE_FILE = (
+    "data/raw/villages/"
+    "vb_soi_uk_geojson/"
+    "vb_soi_uk.GeoJSON"
+)
+
+GIS_VILLAGE_FILE = "data/processed/villages/villages_master.geojson"
 landslide_file = "data/processed/landslides/landslides_processed.geojson"
 rainfall_file = "data/processed/rainfall/rainfall_stations.geojson"
 river_file = "data/processed/river/river_stations.geojson"

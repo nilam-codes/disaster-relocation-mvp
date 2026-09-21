@@ -1,0 +1,560 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "village_id": "V1001",
+    "village_name": "Sherpur",
+    "district": "Dehradun",
+    "centroid_lat": 30.352,
+    "centroid_lon": 78.052
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       78.046,
+       30.346
+      ],
+      [
+       78.058,
+       30.346
+      ],
+      [
+       78.058,
+       30.358
+      ],
+      [
+       78.046,
+       30.358
+      ],
+      [
+       78.046,
+       30.346
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "village_id": "V1002",
+    "village_name": "Lakha Mandal",
+    "district": "Dehradun",
+    "centroid_lat": 30.748,
+    "centroid_lon": 77.752
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.746,
+       30.742
+      ],
+      [
+       77.758,
+       30.742
+      ],
+      [
+       77.758,
+       30.754
+      ],
+      [
+       77.746,
+       30.754
+      ],
+      [
+       77.746,
+       30.742
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "village_id": "V1003",
+    "village_name": "Chatra",
+    "district": "Tehri Garhwal",
+    "centroid_lat": 30.452,
+    "centroid_lon": 78.552
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       78.546,
+       30.446
+      ],
+      [
+       78.558,
+       30.446
+      ],
+      [
+       78.558,
+       30.458000000000002
+      ],
+      [
+       78.546,
+       30.458000000000002
+      ],
+      [
+       78.546,
+       30.446
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "village_id": "V1004",
+    "village_name": "Rishikesh Rural",
+    "district": "Dehradun",
+    "centroid_lat": 30.101,
+    "centroid_lon": 78.281
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       78.275,
+       30.095
+      ],
+      [
+       78.287,
+       30.095
+      ],
+      [
+       78.287,
+       30.107
+      ],
+      [
+       78.275,
+       30.107
+      ],
+      [
+       78.275,
+       30.095
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "village_id": "V1005",
+    "village_name": "Devprayag",
+    "district": "Tehri Garhwal",
+    "centroid_lat": 30.148,
+    "centroid_lon": 78.598
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       78.592,
+       30.142
+      ],
+      [
+       78.604,
+       30.142
+      ],
+      [
+       78.604,
+       30.154
+      ],
+      [
+       78.592,
+       30.154
+      ],
+      [
+       78.592,
+       30.142
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "village_id": "V1006",
+    "village_name": "Nagthat",
+    "district": "Dehradun",
+    "centroid_lat": 30.548,
+    "centroid_lon": 77.848
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.842,
+       30.541999999999998
+      ],
+      [
+       77.854,
+       30.541999999999998
+      ],
+      [
+       77.854,
+       30.554
+      ],
+      [
+       77.842,
+       30.554
+      ],
+      [
+       77.842,
+       30.541999999999998
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "village_id": "V1007",
+    "village_name": "Kanatal",
+    "district": "Tehri Garhwal",
+    "centroid_lat": 30.448,
+    "centroid_lon": 78.248
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       78.242,
+       30.442
+      ],
+      [
+       78.254,
+       30.442
+      ],
+      [
+       78.254,
+       30.454
+      ],
+      [
+       78.242,
+       30.454
+      ],
+      [
+       78.242,
+       30.442
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "village_id": "V1008",
+    "village_name": "Kotdwar Rural",
+    "district": "Pauri Garhwal",
+    "centroid_lat": 29.748,
+    "centroid_lon": 78.518
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       78.512,
+       29.742
+      ],
+      [
+       78.524,
+       29.742
+      ],
+      [
+       78.524,
+       29.754
+      ],
+      [
+       78.512,
+       29.754
+      ],
+      [
+       78.512,
+       29.742
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "village_id": "V1009",
+    "village_name": "Lansdowne Rural",
+    "district": "Pauri Garhwal",
+    "centroid_lat": 29.848,
+    "centroid_lon": 78.678
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       78.672,
+       29.842
+      ],
+      [
+       78.684,
+       29.842
+      ],
+      [
+       78.684,
+       29.854
+      ],
+      [
+       78.672,
+       29.854
+      ],
+      [
+       78.672,
+       29.842
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "village_id": "V1010",
+    "village_name": "Pauri Rural",
+    "district": "Pauri Garhwal",
+    "centroid_lat": 30.148,
+    "centroid_lon": 78.778
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       78.772,
+       30.142
+      ],
+      [
+       78.784,
+       30.142
+      ],
+      [
+       78.784,
+       30.154
+      ],
+      [
+       78.772,
+       30.154
+      ],
+      [
+       78.772,
+       30.142
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "village_id": "V1011",
+    "village_name": "Almora Rural",
+    "district": "Almora",
+    "centroid_lat": 29.598,
+    "centroid_lon": 79.648
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       79.642,
+       29.592
+      ],
+      [
+       79.654,
+       29.592
+      ],
+      [
+       79.654,
+       29.604
+      ],
+      [
+       79.642,
+       29.604
+      ],
+      [
+       79.642,
+       29.592
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "village_id": "V1012",
+    "village_name": "Ranikhet Rural",
+    "district": "Almora",
+    "centroid_lat": 29.638,
+    "centroid_lon": 79.428
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       79.422,
+       29.632
+      ],
+      [
+       79.434,
+       29.632
+      ],
+      [
+       79.434,
+       29.644000000000002
+      ],
+      [
+       79.422,
+       29.644000000000002
+      ],
+      [
+       79.422,
+       29.632
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "village_id": "V1013",
+    "village_name": "Bageshwar Border",
+    "district": "Almora",
+    "centroid_lat": 29.838,
+    "centroid_lon": 79.768
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       79.762,
+       29.832
+      ],
+      [
+       79.774,
+       29.832
+      ],
+      [
+       79.774,
+       29.844
+      ],
+      [
+       79.762,
+       29.844
+      ],
+      [
+       79.762,
+       29.832
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "village_id": "V1014",
+    "village_name": "Hrishikesh",
+    "district": "Dehradun",
+    "centroid_lat": 30.089,
+    "centroid_lon": 78.267
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       78.261,
+       30.083
+      ],
+      [
+       78.273,
+       30.083
+      ],
+      [
+       78.273,
+       30.095
+      ],
+      [
+       78.261,
+       30.095
+      ],
+      [
+       78.261,
+       30.083
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "village_id": "V1015",
+    "village_name": "Kirtinagar",
+    "district": "Tehri Garhwal",
+    "centroid_lat": 30.198,
+    "centroid_lon": 78.678
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       78.672,
+       30.192
+      ],
+      [
+       78.684,
+       30.192
+      ],
+      [
+       78.684,
+       30.204
+      ],
+      [
+       78.672,
+       30.204
+      ],
+      [
+       78.672,
+       30.192
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

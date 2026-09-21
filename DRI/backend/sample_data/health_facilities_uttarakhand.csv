@@ -1,0 +1,8 @@
+facility_id,name,district,type,latitude,longitude
+H001,Dehradun District Hospital,Dehradun,District Hospital,30.3165,78.0322
+H002,Rishikesh CHC,Dehradun,Community Health Centre,30.0869,78.2676
+H003,Tehri PHC,Tehri Garhwal,Primary Health Centre,30.3900,78.4800
+H004,Pauri District Hospital,Pauri Garhwal,District Hospital,30.1469,78.7773
+H005,Almora District Hospital,Almora,District Hospital,29.5892,79.6467
+H006,Kotdwar CHC,Pauri Garhwal,Community Health Centre,29.7460,78.5220
+H007,Ranikhet CHC,Almora,Community Health Centre,29.6425,79.4319

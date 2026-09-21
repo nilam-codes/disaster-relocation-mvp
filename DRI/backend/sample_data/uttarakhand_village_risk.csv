@@ -1,0 +1,16 @@
+village_id,village_name,district,population,children_0_6,illiteracy_rate,sc_st_pct,landslide_count,mean_slope_deg,rainfall_hazard,landslide_hazard,river_signal,road_distance_km,nearest_rainfall_station,nearest_river_station,hazard_score,exposure_score,vulnerability_score,risk_score,risk_category,priority
+V1001,Sherpur,Dehradun,842,96,18.4,12.1,7,31.2,58.4,71.2,42.0,3.2,Dehradun ARG,Song River Gauge,66.6,54.3,41.2,58.7,High,Short-Term
+V1002,Lakha Mandal,Dehradun,613,71,22.7,34.5,11,38.6,64.1,79.8,55.0,6.8,Chakrata ARG,Yamuna Gauge,73.5,47.1,52.8,65.1,High,Short-Term
+V1003,Chatra,Tehri Garhwal,455,58,26.1,19.8,9,42.4,69.0,83.5,60.2,8.1,Tehri ARG,Bhagirathi Gauge,77.0,40.9,49.6,64.3,High,Short-Term
+V1004,Rishikesh Rural,Dehradun,2140,180,9.2,6.4,1,12.5,22.0,15.4,18.0,1.1,Rishikesh ARG,Ganga Gauge,17.9,68.5,15.2,29.9,Moderate,Monitor
+V1005,Devprayag,Tehri Garhwal,980,102,15.6,15.0,3,25.0,35.2,38.9,30.5,2.4,Devprayag ARG,Alaknanda Gauge,36.9,58.1,29.4,42.5,Moderate,Medium-Term
+V1006,Nagthat,Dehradun,321,,,,4,29.0,,,,4.5,,,,,,,Insufficient Data,Insufficient Data
+V1007,Kanatal,Tehri Garhwal,290,,,,6,44.1,,,,7.9,,,,,,,Insufficient Data,Insufficient Data
+V1008,Kotdwar Rural,Pauri Garhwal,1560,140,13.8,10.2,2,18.3,28.7,24.5,22.1,2.0,Kotdwar ARG,Khoh Gauge,26.2,63.2,22.9,37.4,Moderate,Medium-Term
+V1009,Lansdowne Rural,Pauri Garhwal,705,64,11.0,8.7,5,33.8,49.6,60.1,44.0,5.5,Lansdowne ARG,Khoh Gauge,55.9,52.0,32.1,49.6,Moderate,Medium-Term
+V1010,Pauri Rural,Pauri Garhwal,890,,,,3,27.5,41.0,,,3.9,,,,,,,Insufficient Data,Insufficient Data
+V1011,Almora Rural,Almora,1120,95,17.2,29.4,2,20.1,30.5,26.0,25.5,2.8,Almora ARG,Kosi Gauge,27.8,66.9,34.8,40.4,Moderate,Medium-Term
+V1012,Ranikhet Rural,Almora,530,48,14.5,21.6,8,40.5,67.5,81.0,58.0,6.2,Ranikhet ARG,Kosi Gauge,75.6,46.5,36.7,58.4,High,Short-Term
+V1013,Bageshwar Border,Almora,275,,,,12,47.9,72.0,88.4,64.0,9.4,,,82.6,,,,Insufficient Data,Insufficient Data
+V1014,Hrishikesh,Dehradun,3450,290,7.8,5.1,0,9.4,18.2,10.5,12.0,0.8,Rishikesh ARG,Ganga Gauge,13.3,74.2,11.0,24.6,Low,Monitor
+V1015,Kirtinagar,Tehri Garhwal,410,39,19.5,17.2,10,45.6,71.4,85.0,62.5,7.6,Tehri ARG,Alaknanda Gauge,79.8,42.0,44.9,64.9,High,Short-Term
